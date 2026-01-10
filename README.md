@@ -21,8 +21,8 @@ Un program de consolă cu meniu interactiv pentru operații matematice.
 ## 📊 Progresul Învățării
 ✅ **Modulul 0: Bazele Sintaxei** - Stăpânit  
 ✅ **Modulul 1: Structuri de Control** - Stăpânit  
-⬜ Modulul 2: Array-uri și Colecții - În progres  
-⬜ Modulul 3: Metode - În progres  
+⬜ Modulul 2: Array-uri și Colecții - Stapanit 
+⬜ Modulul 3: Metode - Stapanit  
 
 ## 💡 Principii pe Care le Urmăresc
 - **KISS** (Keep It Simple, Stupid)
