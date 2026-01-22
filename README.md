@@ -17,6 +17,8 @@ Un program de consolă cu meniu interactiv pentru operații matematice.
 **Concepte cheie:** Bucle imbricate, algoritmi, control flux
 
 ### Set de exercitii practice(metodele) https://github.com/gheorghe835/modul_3_metode.git
+### Sistem Bancar Multivalutar - Sistem bancar complet cu gestionare multi-valută, conversie, tranzacții și rapoarte în Java.
+https://github.com/gheorghe835/bankAccountManagementSystem.git
 
 ## 📊 Progresul Învățării
 ✅ **Modulul 0: Bazele Sintaxei** - Stăpânit  
