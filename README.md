@@ -23,7 +23,7 @@ https://github.com/gheorghe835/bankAccountManagementSystem.git
 ## 📊 Progresul Învățării
 ✅ **Modulul 0: Bazele Sintaxei** - Stăpânit  
 ✅ **Modulul 1: Structuri de Control** - Stăpânit  
-✅ **Modulul 2: Array-uri și Colecții**- Stapanit 
+✅ **Modulul 2: Array-uri și Colecții** - Stapanit 
 ✅ **Modulul 3: Metode** - Stapanit  
 ✅ **MODULUL 4: Clase și Obiecte (OOP Intro)** - Stăpânit
 ✅ **MODULUL 5: Moștenire - Stăpânit
