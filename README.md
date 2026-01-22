@@ -11,13 +11,13 @@ Sunt pasionat de programare și învăț Java prin proiecte practice. Acest port
 
 ## 🏆 Proiecte
 
-###  [Calculator Interactiv](proiecte/calculator-interactiv/) https://github.com/gheorghe835/calculon.git
+###  ✅Calculator Interactiv](proiecte/calculator-interactiv https://github.com/gheorghe835/calculon.git
 Un program de consolă cu meniu interactiv pentru operații matematice.
 **Concepte cheie:** Scanner, structuri de control, operatori
 **Concepte cheie:** Bucle imbricate, algoritmi, control flux
 
-### Set de exercitii practice(metodele) https://github.com/gheorghe835/modul_3_metode.git
-### Sistem Bancar Multivalutar - Sistem bancar complet cu gestionare multi-valută, conversie, tranzacții și rapoarte în Java.
+### ✅Set de exercitii practice(metodele) https://github.com/gheorghe835/modul_3_metode.git
+### ✅Sistem Bancar Multivalutar - Sistem bancar complet cu gestionare multi-valută, conversie, tranzacții și rapoarte în Java.
 https://github.com/gheorghe835/bankAccountManagementSystem.git
 
 ## 📊 Progresul Învățării
